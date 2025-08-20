@@ -1,0 +1,6 @@
+/* Intentionally minimal; Tailwind handles most styling. */
+#root { /* keep container responsive without centering everything */
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}

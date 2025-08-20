@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App layout helpers */
+html, body, #root {
+  height: 100%;
+}
+
+/* Typography tweaks to better match the design */
+body {
+  @apply bg-slate-50 text-gray-900 antialiased;
+}
