@@ -17,6 +17,28 @@
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
+# 📌 PII Guardian Frontend
+
+This is the frontend for **PII Guardian**, a privacy-focused application that automatically detects and masks Personally Identifiable Information (PII) in images.  
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/PII-Masking.git
+
+cd frontend
+
+npm install
+
+npm run dev
+
+By default, Vite will serve the frontend on:
+👉 http://localhost:5173
+
+
+
 
 # PII Guardian Backend (FastAPI)
 
